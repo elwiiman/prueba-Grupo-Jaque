@@ -37,6 +37,6 @@ Si todo el proceso anterior ha ocurrido con resultados positivios, se evalua si 
 
 Si la pila está vacía esto indica que la cadena está balanceada y retorna verdadero. 
 
-## Problema 5
+## Para verificar de forma gráfica las pruebas efectuadas:
 
-Para verificar las soluciones, abrir archivo Prueba.html. 
+ Abrir archivo Prueba.html en navegador. 
